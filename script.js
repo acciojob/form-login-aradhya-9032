@@ -5,6 +5,6 @@ function getFormvalue() {
   // Get the values of the first and last name inputs
   var firstName = firstNameInput.value;
   var lastName = lastNameInput.value;
-   alert( firstName + lastName);
+   alert( firstName +" "+ lastName);
 }
 
